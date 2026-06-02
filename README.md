@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| Niratcha Permpuak | Team 17 | Hustler | [example evidence](docs/evidence/example-student.md) | - |
+| Niratcha Permpuak | Team 17 | Hustler | [example evidence](docs/evidence/example-student.md) | https://github.com/67050170/github101-practice/blob/179dc5e29649e58b918f9394576e4e353a60d166/docs/issues/Niratcha-67050170.md |
 
 ---
 
